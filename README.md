@@ -1,2 +1,2 @@
-# assets
-curated and created a set of assets
+# Assets
+Curated and created free to use assets
